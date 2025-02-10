@@ -1,0 +1,20 @@
+﻿  Adventurer.cpp
+  Camera.cpp
+  Character.cpp
+C:\Code\Game-Engine-RPG\GameEngineRPG\GameEngineRPG\Character.cpp(111,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Code\Game-Engine-RPG\GameEngineRPG\GameEngineRPG\Character.cpp(185,55): warning C4018: '<': signed/unsigned mismatch
+C:\Code\Game-Engine-RPG\GameEngineRPG\GameEngineRPG\Character.cpp(297,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Code\Game-Engine-RPG\GameEngineRPG\GameEngineRPG\Character.cpp(322,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Goblin.cpp
+  Mage.cpp
+  Map.cpp
+  Monster.cpp
+  Renderer.cpp
+  Sniper.cpp
+  Warrior.cpp
+  main.cpp
+C:\Code\Game-Engine-RPG\GameEngineRPG\GameEngineRPG\main.cpp(216,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Code\Game-Engine-RPG\GameEngineRPG\x64\Debug\GameEngineRPG.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GameEngineRPG.vcxproj -> C:\Code\Game-Engine-RPG\GameEngineRPG\x64\Debug\GameEngineRPG.exe

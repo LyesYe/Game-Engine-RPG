@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\code\\game-engine-rpg\\gameenginerpg\\gameenginerpg\\dependencies\\include\\glm\\glm.cppm",
+        "ProvidedModule": "",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
